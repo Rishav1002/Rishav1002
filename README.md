@@ -295,16 +295,20 @@ My current AI learning is strongly connected to the **Google Cloud and Gemini ec
 <img src="https://img.shields.io/badge/LinkedIn-Rishav_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.kaggle.com/rishav1002">
-<img src="https://img.shields.io/badge/Kaggle-Rishav1002-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
 <a href="https://leetcode.com/u/rishav1002/">
 <img src="https://img.shields.io/badge/LeetCode-Rishav1002-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/Rishav1002">
 <img src="https://img.shields.io/badge/HackerRank-Rishav1002-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+<a href="https://www.skills.google/public_profiles/c0c554fe-ff16-4c25-af3f-795d97cd7813">
+<img src="https://img.shields.io/badge/Google%20Cloud%20Skills-Profile-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/rishav1002">
+<img src="https://img.shields.io/badge/Kaggle-Rishav1002-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
 </div>
