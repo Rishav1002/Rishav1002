@@ -301,23 +301,11 @@ My current AI learning is strongly connected to the **Google Cloud and Gemini ec
 
 <div align="center">
 
-[![Rishav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishav1002\&hide_border=true\&area=true\&custom_title=Rishav's%20Contribution%20Graph)](https://github.com/Rishav1002)
+[![Rishav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishav1002&theme=github-compact&hide_border=true&area=true)](https://github.com/Rishav1002)
 
 </div>
 
----
-
-## `10` — BEYOND CODE
-
-When I'm away from the keyboard:
-
-🏏 **Cricket**
-🎥 **Documentaries**
-📱 **Mobile Photography**
-
----
-
-## `11` — FIND ME ONLINE
+## `10` — FIND ME ONLINE
 
 <div align="center">
 
