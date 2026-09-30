@@ -34,9 +34,9 @@
 
 > **Data → Insights → Intelligence**
 
-I'm **Rishav Kumar**, an MCA Data Science student and aspiring Data Analyst interested in the intersection of **data analytics, artificial intelligence and software development**.
+I'm **Rishav Kumar**, an MCA Data Science student and **Aspiring Data Analyst** interested in the intersection of Data Analytics, Artificial Intelligence and Software Development.
 
-I work primarily with **Python, SQL, Excel, databases and data visualization**, while exploring **Generative AI, Machine Learning, APIs and Google Cloud technologies**.
+I work primarily with **Python, SQL, Excel, Databases and Data Visualization**, while exploring **Generative AI, Machine Learning, APIs and Google Cloud Technologies**.
 
 My goal is to keep building practical projects, strengthen my analytical foundations, and eventually grow into a **Data Scientist at Google**.
 
@@ -195,27 +195,6 @@ Raw E-commerce Data
 
 ---
 
-### 🧮 Simple Calculator
-
-**A Python GUI application focused on practical application development.**
-
-**Stack**
-
-`Python` `Flet`
-
-**Highlights**
-
-* GUI-based calculator
-* Input handling
-* Calculation functionality
-* Practical Python application development
-
-<a href="https://github.com/Rishav1002/Simple-Calculator">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
 ## `05` — CURRENTLY LEARNING
 
 ```text id="f0cg6s"
@@ -238,7 +217,7 @@ Raw E-commerce Data
 
 ### Current focus
 
-* Advanced **SQL & database concepts**
+* Advanced **SQL & Database Concepts**
 * **Python** for analytics and automation
 * Data cleaning and transformation
 * Data visualization and dashboards
@@ -263,7 +242,6 @@ Raw E-commerce Data
 
 </div>
 
-> Building the fundamentals today for the problems I want to solve tomorrow.
 
 ---
 
@@ -301,7 +279,7 @@ My current AI learning is strongly connected to the **Google Cloud and Gemini ec
 
 <div align="center">
 
-[![Rishav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishav1002&theme=github-compact&hide_border=true&area=true)](https://github.com/Rishav1002)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishav1002&theme=github-compact&hide_border=true&area=true)](https://github.com/Rishav1002)
 
 </div>
 
@@ -309,8 +287,8 @@ My current AI learning is strongly connected to the **Google Cloud and Gemini ec
 
 <div align="center">
 
-<a href="https://github.com/Rishav1002">
-<img src="https://img.shields.io/badge/GitHub-Rishav1002-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:guptarishav1584@gmail.com">
+<img src="https://img.shields.io/badge/Email-guptarishav1584%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rishav1002/">
