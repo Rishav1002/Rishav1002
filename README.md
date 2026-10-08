@@ -107,7 +107,7 @@ Problem Solving
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=python,java,mysql,c" alt="Programming languages"/>
 </p>
 
 ### Data & Analytics
@@ -232,8 +232,8 @@ Raw E-commerce Data
 
 <div align="center">
 
-|       Stage      | Direction             |
-| :--------------: | :-------------------- |
+|       Stage      |        Direction       |
+| :--------------: | :--------------------: |
 |    🎓 **NOW**    | MCA — Data Science    |
 |    📊 **NEXT**   | Aspiring Data Analyst |
 |   🚀 **GROWTH**  | Data Analyst          |
