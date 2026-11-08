@@ -21,7 +21,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&center=true&vCenter=true&width=650&lines=Turning+data+into+useful+insights;Building+with+Python+and+SQL;Exploring+Machine+Learning+and+GenAI;Learning+by+building+practical+projects" alt="Typing introduction">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&center=true&vCenter=true&width=650&lines=Turning+Data+into+useful+Insights;Building+with+Python+and+SQL;Exploring+Machine+Learning+and+GenAI;Learning+by+Building+Practical+Projects" alt="Typing introduction">
 
 </div>
 
@@ -29,9 +29,9 @@
 
 ## 01 · About me
 
-I'm **Rishav Kumar**, an MCA Data Science student interested in **Data Analytics, Artificial Intelligence, and Software Development**.
+I'm **Rishav Kumar**, an MCA Data Science Student interested in **Data Analytics, Artificial Intelligence and Software Development**.
 
-I work with Python, SQL, Excel, databases, and data visualization. I'm currently strengthening my foundations in statistics and machine learning while exploring Generative AI, APIs, and Google Cloud technologies.
+I work with Python, SQL, Excel, Databases and Data Visualization. I'm currently strengthening my foundations in Statistics and Machine Learning while exploring Generative AI, APIs and Google Cloud Technologies.
 
 My long-term goal is to grow into a **Data Scientist**, building practical solutions that turn data into meaningful decisions.
 
@@ -44,15 +44,15 @@ My long-term goal is to grow into a **Data Scientist**, building practical solut
 | Data visualization | Vertex AI | Streamlit | DBMS |
 | Dashboards | Google Cloud | Automation | Problem solving |
 
-## 03 · Tech stack
+## 03 · Tech Stack
 
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,c" alt="Python, Java, MySQL and C">
+  <img src="https://skillicons.dev/icons?i=python,mysql,java,c" alt="Python, MySQL, Java and C">
 </p>
 
-**Data analysis & visualization**
+**Data Analysis & Visualization**
 
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
@@ -62,7 +62,7 @@ My long-term goal is to grow into a **Data Scientist**, building practical solut
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
 </p>
 
-**AI, cloud & application development**
+**AI, Cloud & Application Development**
 
 <p>
   <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Generative AI">
@@ -72,7 +72,7 @@ My long-term goal is to grow into a **Data Scientist**, building practical solut
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
 </p>
 
-**Databases & tools**
+**Databases & Tools**
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,git,github" alt="MySQL, Git and GitHub">
@@ -80,7 +80,7 @@ My long-term goal is to grow into a **Data Scientist**, building practical solut
   <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs">
 </p>
 
-## 04 · Featured projects
+## 04 · Featured Projects
 
 ### AI-Powered Resume Analyzer
 
@@ -93,7 +93,7 @@ An AI-assisted resume evaluation platform designed to help candidates understand
 - Uses the Gemini API to generate contextual analysis and useful insights.
 - Focuses on making resume analysis more efficient through backend performance optimization.
 
-**Technology:** `Python` `Gemini API` `AI-powered resume analysis`
+**Technology:** `Python` `Gemini API` `AI-powered Resume Analysis`
 
 <div align="left">
   <a href="https://github.com/Rishav1002/CareerMatch-AI">
@@ -103,7 +103,7 @@ An AI-assisted resume evaluation platform designed to help candidates understand
 
 ### E-commerce AI ETL Pipeline
 
-An end-to-end data pipeline combining data engineering, Generative AI, and business analytics.
+An end-to-end data pipeline combining Data Engineering, Generative AI and Business Analytics.
 
 ```text
        Raw E-commerce Data
@@ -147,7 +147,7 @@ An end-to-end data pipeline combining data engineering, Generative AI, and busin
   </a>
 </div>
 
-## 05 · Currently learning
+## 05 · Currently Learning
 
 ```text
                          DATA SCIENCE
@@ -166,27 +166,27 @@ An end-to-end data pipeline combining data engineering, Generative AI, and busin
                         BUILD PROJECTS
 ```
 
-- Advanced SQL and database concepts
-- Python for analytics and automation
-- Data cleaning and transformation
-- Probability, statistics, and data visualization
-- Machine learning fundamentals
-- Generative AI applications and API integrations
-- DSA and problem-solving
+- Advanced SQL and Database Concepts
+- Python for Analytics and Automation
+- Data Cleaning and Transformation
+- Probability, Statistics and Data Visualization
+- Machine Learning Fundamentals
+- Generative AI Applications and API Integrations
+- DSA and Problem-Solving
 
 ## 06 · Learning roadmap
 
 | Stage | Direction |
 |:---|:---|
 | **Current** | MCA — Data Science |
-| **Next** | Data Analyst internship / entry-level role |
+| **Next** | Data Analyst Internship |
 | **Growth** | Data Analyst |
 | **Long term** | Data Scientist |
 | **Aspiration** | Work toward opportunities at Google |
 
 ## 07 · Google Cloud & Generative AI
 
-My current AI learning is connected to the **Google Cloud and Gemini ecosystem**.
+My current AI Learning is connected to the **Google Cloud and Gemini Ecosystem**.
 
 **Completed skill badges**
 - Explore Generative AI with Vertex AI Gemini API
