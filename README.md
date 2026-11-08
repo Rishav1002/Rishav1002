@@ -1,328 +1,242 @@
 <div align="center">
 
-# RISHAV KUMAR
+# Rishav Kumar
 
-### `DATA ANALYST • AI/GENAI • PYTHON • SQL`
+### Data Analytics · AI/GenAI · Python · SQL
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Building+with+Python+%26+SQL;Exploring+AI+%26+Generative+AI;Turning+data+into+useful+insights;Future+Data+Scientist" alt="Typing animation"/>
-
-<br>
+**MCA Data Science Student | Aspiring Data Analyst**
 
 <a href="https://www.linkedin.com/in/rishav1002/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-&nbsp;
 <a href="https://www.kaggle.com/rishav1002">
-<img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
 </a>
-&nbsp;
 <a href="https://leetcode.com/u/rishav1002/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
 </a>
-&nbsp;
 <a href="https://www.hackerrank.com/profile/Rishav1002">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=flat-square&logo=hackerrank&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
 </a>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&center=true&vCenter=true&width=650&lines=Turning+data+into+useful+insights;Building+with+Python+and+SQL;Exploring+Machine+Learning+and+GenAI;Learning+by+building+practical+projects" alt="Typing introduction">
 
 </div>
 
 ---
 
-## `01` — PROFILE
+## 01 · About me
 
-> **Data → Insights → Intelligence**
+I'm **Rishav Kumar**, an MCA Data Science student interested in **Data Analytics, Artificial Intelligence, and Software Development**.
 
-I'm **Rishav Kumar**, an MCA Data Science student and **Aspiring Data Analyst** interested in the intersection of Data Analytics, Artificial Intelligence and Software Development.
+I work with Python, SQL, Excel, databases, and data visualization. I'm currently strengthening my foundations in statistics and machine learning while exploring Generative AI, APIs, and Google Cloud technologies.
 
-I work primarily with **Python, SQL, Excel, Databases and Data Visualization**, while exploring **Generative AI, Machine Learning, APIs and Google Cloud Technologies**.
+My long-term goal is to grow into a **Data Scientist**, building practical solutions that turn data into meaningful decisions.
 
-My goal is to keep building practical projects, strengthen my analytical foundations, and eventually grow into a **Data Scientist at Google**.
+## 02 · Areas of interest
 
----
+| Data & Analytics | AI & Cloud | Development | Foundations |
+|:---:|:---:|:---:|:---:|
+| Data analysis | Generative AI | Python | Statistics |
+| SQL & Excel | Gemini API | REST APIs | DSA |
+| Data visualization | Vertex AI | Streamlit | DBMS |
+| Dashboards | Google Cloud | Automation | Problem solving |
 
-## `02` — WHAT I'M INTO
+## 03 · Tech stack
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 📊
-
-**DATA**
-
-Analytics
-SQL
-Excel
-Visualization
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-
-**AI**
-
-GenAI
-Gemini
-Vertex AI
-Prompting
-
-</td>
-
-<td align="center" width="25%">
-
-### 🐍
-
-**BUILD**
-
-Python
-APIs
-Streamlit
-Automation
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-**GROW**
-
-ML
-DSA
-DBMS
-Problem Solving
-
-</td>
-</tr>
-</table>
-
----
-
-## `03` — TECH STACK
-
-### Languages
+**Languages**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql,c" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,c" alt="Python, Java, MySQL and C">
 </p>
 
-### Data & Analytics
+**Data analysis & visualization**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
 </p>
 
-### AI / Cloud
+**AI, cloud & application development**
 
 <p>
-<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API"/>
-<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Generative AI">
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API">
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
 </p>
 
-### Databases / Development
+**Databases & tools**
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github" alt="Development tools"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
-<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github" alt="MySQL, Git and GitHub">
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs">
 </p>
 
----
+## 04 · Featured projects
 
-## `04` — FEATURED PROJECTS
+### AI-Powered Resume Analyzer
 
-### 🛒 E-commerce AI ETL Pipeline
+An AI-assisted resume evaluation platform designed to help candidates understand how well their resume aligns with a target role and identify areas to improve.
 
-**An end-to-end data pipeline combining data engineering, Generative AI and business analytics.**
+**Key capabilities**
+- Parses uploaded resumes and analyzes their content.
+- Evaluates resume relevance against job requirements.
+- Highlights skill gaps through a Job Requirements & Skill Gap Matrix.
+- Uses the Gemini API to generate contextual analysis and useful insights.
+- Focuses on making resume analysis more efficient through backend performance optimization.
 
-```text id="ewx6vi"
-Raw E-commerce Data
-        │
-        ▼
-┌──────────────────┐
-│ Extract & Clean  │
-└────────┬─────────┘
-         │
-         ▼
-┌──────────────────┐
-│ Transform        │
-│ Pandas / Pydantic│
-└────────┬─────────┘
-         │
-         ├──────────────► Gemini API
-         │                Sentiment Analysis
-         │                Business Insights
-         │
-         ▼
-┌──────────────────┐
-│      MySQL       │
-└────────┬─────────┘
-         │
-         ▼
-     Power BI
-```
+**Technology:** `Python` `Gemini API` `AI-powered resume analysis`
 
-**Stack**
-
-`Python` `Pandas` `Gemini API` `Pydantic`
-`SQLAlchemy` `MySQL` `Power BI`
-
-**Key work**
-
-* Designed an end-to-end ETL workflow
-* Cleaned and transformed e-commerce data
-* Enriched review text using the Gemini API
-* Applied sentiment analysis to customer reviews
-* Generated automated business insights
-* Loaded transformed data into MySQL
-* Prepared the data for Power BI analysis
-
-<a href="https://github.com/Rishav1002/ecommerce-ai-etl-pipeline">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## `05` — CURRENTLY LEARNING
-
-```text id="f0cg6s"
-                    DATA SCIENCE
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-          ▼              ▼              ▼
-      ANALYTICS      MACHINE LEARNING     AI
-          │              │              │
-          ▼              ▼              ▼
-       SQL +          Statistics +      GenAI +
-       Python         Algorithms        APIs
-          │              │              │
-          └──────────────┼──────────────┘
-                         │
-                         ▼
-                   BUILD PROJECTS
-```
-
-### Current focus
-
-* Advanced **SQL & Database Concepts**
-* **Python** for analytics and automation
-* Data cleaning and transformation
-* Data visualization and dashboards
-* Machine learning fundamentals
-* Generative AI applications
-* APIs and AI integrations
-* DSA and problem-solving
-
----
-
-## `06` — CAREER ROADMAP
-
-<div align="center">
-
-|       Stage      |        Direction       |
-| :--------------: | :--------------------: |
-|    🎓 **NOW**    | MCA — Data Science    |
-|    📊 **NEXT**   | Aspiring Data Analyst |
-|   🚀 **GROWTH**  | Data Analyst          |
-| 🧠 **LONG TERM** | Data Scientist        |
-|    🎯 **GOAL**   | Google                |
-
+<div align="left">
+  <a href="https://github.com/Rishav1002/CareerMatch-AI">
+    <img src="https://img.shields.io/badge/View_CareerMatch--AI-181717?style=for-the-badge&logo=github&logoColor=white" alt="View CareerMatch-AI project">
+  </a>
 </div>
 
+### E-commerce AI ETL Pipeline
 
----
+An end-to-end data pipeline combining data engineering, Generative AI, and business analytics.
 
-## `07` — GOOGLE CLOUD / GENAI
+```text
+       Raw E-commerce Data
+                |
+                v
+       Extract & Clean
+                |
+                v
+    Transform (Pandas / Pydantic)
+                |
+         +------+------+
+         |             |
+         v             v
+     Gemini API    Enrichment
+  Sentiment analysis & business insights
+         |             |
+         +------+------+
+                |
+                v
+          MySQL Database
+                |
+                v
+             Power BI
+       Analysis & dashboards
+```
 
-My current AI learning is strongly connected to the **Google Cloud and Gemini ecosystem**.
+**Technology:** `Python` `Pandas` `Pydantic` `Gemini API` `SQLAlchemy` `MySQL` `Power BI`
+
+**What I worked on**
+- Designed an end-to-end ETL workflow.
+- Cleaned and transformed e-commerce data.
+- Used the Gemini API to enrich customer review data.
+- Applied sentiment analysis to customer reviews.
+- Generated automated business insights.
+- Loaded transformed data into MySQL for downstream analysis.
+- Prepared the data for Power BI reporting.
+
+<div align="left">
+  <a href="https://github.com/Rishav1002/ecommerce-ai-etl-pipeline">
+    <img src="https://img.shields.io/badge/View_project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View E-commerce AI ETL Pipeline project">
+  </a>
+</div>
+
+## 05 · Currently learning
+
+```text
+                         DATA SCIENCE
+                              |
+              +---------------+---------------+
+              |               |               |
+              v               v               v
+          ANALYTICS      MACHINE LEARNING      AI
+              |               |               |
+              v               v               v
+          SQL + Python   Statistics + ML    GenAI + APIs
+              |               |               |
+              +---------------+---------------+
+                              |
+                              v
+                        BUILD PROJECTS
+```
+
+- Advanced SQL and database concepts
+- Python for analytics and automation
+- Data cleaning and transformation
+- Probability, statistics, and data visualization
+- Machine learning fundamentals
+- Generative AI applications and API integrations
+- DSA and problem-solving
+
+## 06 · Learning roadmap
+
+| Stage | Direction |
+|:---|:---|
+| **Current** | MCA — Data Science |
+| **Next** | Data Analyst internship / entry-level role |
+| **Growth** | Data Analyst |
+| **Long term** | Data Scientist |
+| **Aspiration** | Work toward opportunities at Google |
+
+## 07 · Google Cloud & Generative AI
+
+My current AI learning is connected to the **Google Cloud and Gemini ecosystem**.
 
 **Completed skill badges**
+- Explore Generative AI with Vertex AI Gemini API
+- Inspect Rich Documents with Gemini Multimodality
+- Build Real World AI Applications with Gemini and Imagen
+- Develop GenAI Apps with Gemini and Streamlit
+- Prompt Design in Vertex AI
 
-* `Explore Generative AI with Vertex AI Gemini API`
-* `Inspect Rich Documents with Gemini Multimodality`
-* `Build Real World AI Applications with Gemini and Imagen`
-* `Develop GenAI Apps with Gemini and Streamlit`
-* `Prompt Design in Vertex AI`
+[View my Google Cloud Skills profile](https://www.skills.google/public_profiles/c0c554fe-ff16-4c25-af3f-795d97cd7813)
 
----
-
-## `08` — GITHUB ACTIVITY
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rishav1002&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishav1002&layout=compact&hide_border=true&langs_count=8" alt="Top languages"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Rishav1002&hide_border=true" alt="GitHub streak"/>
-
-</div>
-
----
-
-## `09` — CONTRIBUTIONS
+## 08 · GitHub activity
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishav1002&theme=github-compact&hide_border=true&area=true)](https://github.com/Rishav1002)
+<a href="https://github.com/Rishav1002">
+  <img src="https://streak-stats.demolab.com?user=Rishav1002&hide_border=true" height="165" alt="GitHub contribution streak">
+</a>
+
+<br>
+
+[View all repositories and contribution activity](https://github.com/Rishav1002)
 
 </div>
 
-## `10` — FIND ME ONLINE
+## 09 · Connect with me
 
 <div align="center">
 
 <a href="mailto:guptarishav1584@gmail.com">
-<img src="https://img.shields.io/badge/Email-guptarishav1584%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Send_a_message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-
 <a href="https://www.linkedin.com/in/rishav1002/">
-<img src="https://img.shields.io/badge/LinkedIn-Rishav_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
-<a href="https://leetcode.com/u/rishav1002/">
-<img src="https://img.shields.io/badge/LeetCode-Rishav1002-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/Rishav1002">
-<img src="https://img.shields.io/badge/HackerRank-Rishav1002-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-<a href="https://www.skills.google/public_profiles/c0c554fe-ff16-4c25-af3f-795d97cd7813">
-<img src="https://img.shields.io/badge/Google%20Cloud%20Skills-Profile-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-</a>
-
 <a href="https://www.kaggle.com/rishav1002">
-<img src="https://img.shields.io/badge/Kaggle-Rishav1002-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### `DATA → INSIGHTS → INTELLIGENCE`
-
-**Building. Learning. Experimenting. Improving.**
+<a href="https://leetcode.com/u/rishav1002/">
+  <img src="https://img.shields.io/badge/LeetCode-Connect-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+</a>
+<a href="https://www.hackerrank.com/profile/Rishav1002">
+  <img src="https://img.shields.io/badge/HackerRank-Connect-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+</a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Rishav1002&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
+**Data → Insights → Intelligence**
+
+*Building · Learning · Experimenting · Improving*
+
+<img src="https://komarev.com/ghpvc/?username=Rishav1002&style=flat-square&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
