@@ -35,13 +35,13 @@ I work with Python, SQL, Excel, Databases and Data Visualization. I'm currently 
 
 My long-term goal is to grow into a **Data Scientist**, building practical solutions that turn data into meaningful decisions.
 
-## 02 · Areas of interest
+## 02 · Areas of Interest
 
 | Data & Analytics | AI & Cloud | Development | Foundations |
 |:---:|:---:|:---:|:---:|
-| Data analysis | Generative AI | Python | Statistics |
+| Data Analysis | Generative AI | Python | Statistics |
 | SQL & Excel | Gemini API | REST APIs | DSA |
-| Data visualization | Vertex AI | Streamlit | DBMS |
+| Data Visualization | Vertex AI | Streamlit | DBMS |
 | Dashboards | Google Cloud | Automation | Problem solving |
 
 ## 03 · Tech Stack
@@ -82,7 +82,14 @@ My long-term goal is to grow into a **Data Scientist**, building practical solut
 
 ## 04 · Featured Projects
 
-### AI-Powered Resume Analyzer
+<div align="left">
+  <h3>
+    AI-Powered Resume Analyzer
+    <a href="https://github.com/Rishav1002/CareerMatch-AI">
+      <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Project" align="right">
+    </a>
+  </h3>
+</div>
 
 An AI-assisted resume evaluation platform designed to help candidates understand how well their resume aligns with a target role and identify areas to improve.
 
@@ -95,13 +102,15 @@ An AI-assisted resume evaluation platform designed to help candidates understand
 
 **Technology:** `Python` `Gemini API` `AI-powered Resume Analysis`
 
-<div align="left">
-  <a href="https://github.com/Rishav1002/CareerMatch-AI">
-    <img src="https://img.shields.io/badge/View_CareerMatch--AI-181717?style=for-the-badge&logo=github&logoColor=white" alt="View CareerMatch-AI project">
-  </a>
-</div>
 
-### E-commerce AI ETL Pipeline
+<div align="left">
+  <h3>
+    E-commerce AI ETL Pipeline
+    <a href="https://github.com/Rishav1002/ecommerce-ai-etl-pipeline">
+      <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Project" align="right">
+    </a>
+  </h3>
+</div>
 
 An end-to-end data pipeline combining Data Engineering, Generative AI and Business Analytics.
 
@@ -141,11 +150,6 @@ An end-to-end data pipeline combining Data Engineering, Generative AI and Busine
 - Loaded transformed data into MySQL for downstream analysis.
 - Prepared the data for Power BI reporting.
 
-<div align="left">
-  <a href="https://github.com/Rishav1002/ecommerce-ai-etl-pipeline">
-    <img src="https://img.shields.io/badge/View_project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View E-commerce AI ETL Pipeline project">
-  </a>
-</div>
 
 ## 05 · Currently Learning
 
