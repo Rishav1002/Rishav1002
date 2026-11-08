@@ -29,7 +29,7 @@
 
 ## 01 · About me
 
-👋 I'm **Rishav Kumar**, an MCA Data Science Student interested in **Data Analytics, Artificial Intelligence and Software Development**.
+👋 I'm **Rishav**, an MCA Data Science Student interested in **Data Analytics, Artificial Intelligence and Software Development**.
 
 I work with Python, SQL, Excel, Databases and Data Visualization. I'm currently strengthening my foundations in Statistics and Machine Learning while exploring Generative AI, APIs and Google Cloud Technologies.
 
