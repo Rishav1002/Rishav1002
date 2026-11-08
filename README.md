@@ -29,7 +29,7 @@
 
 ## 01 · About me
 
-I'm **Rishav Kumar**, an MCA Data Science Student interested in **Data Analytics, Artificial Intelligence and Software Development**.
+👋 I'm **Rishav Kumar**, an MCA Data Science Student interested in **Data Analytics, Artificial Intelligence and Software Development**.
 
 I work with Python, SQL, Excel, Databases and Data Visualization. I'm currently strengthening my foundations in Statistics and Machine Learning while exploring Generative AI, APIs and Google Cloud Technologies.
 
@@ -42,7 +42,7 @@ My long-term goal is to grow into a **Data Scientist**, building practical solut
 | Data Analysis | Generative AI | Python | Statistics |
 | SQL & Excel | Gemini API | REST APIs | DSA |
 | Data Visualization | Vertex AI | Streamlit | DBMS |
-| Dashboards | Google Cloud | Automation | Problem solving |
+| Dashboards | Google Cloud | Automation | Problem Solving |
 
 ## 03 · Tech Stack
 
