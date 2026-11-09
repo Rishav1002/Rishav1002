@@ -112,7 +112,7 @@ An AI-assisted resume evaluation platform designed to help candidates understand
   </h3>
 </div>
 
-An end-to-end data pipeline combining Data Engineering, Generative AI and Business Analytics.
+An end-to-end Data Pipeline combining Data Engineering, Generative AI and Business Analytics.
 
 ```text
        Raw E-commerce Data
@@ -142,7 +142,7 @@ An end-to-end data pipeline combining Data Engineering, Generative AI and Busine
 **Technology:** `Python` `Pandas` `Pydantic` `Gemini API` `SQLAlchemy` `MySQL` `Power BI`
 
 **What I worked on**
-- Designed an end-to-end ETL workflow.
+- Designed an end-to-end ETL Workflow.
 - Cleaned and transformed e-commerce data.
 - Used the Gemini API to enrich customer review data.
 - Applied sentiment analysis to customer reviews.
@@ -178,7 +178,7 @@ An end-to-end data pipeline combining Data Engineering, Generative AI and Busine
 - Generative AI Applications and API Integrations
 - DSA and Problem-Solving
 
-## 06 · Learning roadmap
+## 06 · Learning Roadmap
 
 | Stage | Direction |
 |:---|:---|
@@ -186,22 +186,22 @@ An end-to-end data pipeline combining Data Engineering, Generative AI and Busine
 | **Next** | Data Analyst Internship |
 | **Growth** | Data Analyst |
 | **Long term** | Data Scientist |
-| **Aspiration** | Work toward opportunities at Google |
+| **Aspiration** | Working Toward Opportunities at Google |
 
 ## 07 · Google Cloud & Generative AI
 
 My current AI Learning is connected to the **Google Cloud and Gemini Ecosystem**.
 
-**Completed skill badges**
+**Completed Skill Badges**
 - Explore Generative AI with Vertex AI Gemini API
 - Inspect Rich Documents with Gemini Multimodality
 - Build Real World AI Applications with Gemini and Imagen
 - Develop GenAI Apps with Gemini and Streamlit
 - Prompt Design in Vertex AI
 
-[View my Google Cloud Skills profile](https://www.skills.google/public_profiles/c0c554fe-ff16-4c25-af3f-795d97cd7813)
+[View my Google Cloud Skills Profile](https://www.skills.google/public_profiles/c0c554fe-ff16-4c25-af3f-795d97cd7813)
 
-## 08 · GitHub activity
+## 08 · GitHub Activity
 
 <div align="center">
 
@@ -211,7 +211,7 @@ My current AI Learning is connected to the **Google Cloud and Gemini Ecosystem**
 
 <br>
 
-[View all repositories and contribution activity](https://github.com/Rishav1002)
+[View all Repositories and Contribution Activity](https://github.com/Rishav1002)
 
 </div>
 
@@ -226,13 +226,13 @@ My current AI Learning is connected to the **Google Cloud and Gemini Ecosystem**
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://www.kaggle.com/rishav1002">
-  <img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+  <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
 </a>
 <a href="https://leetcode.com/u/rishav1002/">
-  <img src="https://img.shields.io/badge/LeetCode-Connect-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
 </a>
 <a href="https://www.hackerrank.com/profile/Rishav1002">
-  <img src="https://img.shields.io/badge/HackerRank-Connect-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
 </a>
 
 <br>
