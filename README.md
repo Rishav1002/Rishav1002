@@ -199,7 +199,7 @@ My current AI Learning is connected to the **Google Cloud and Gemini Ecosystem**
 - Develop GenAI Apps with Gemini and Streamlit
 - Prompt Design in Vertex AI
 
-[View my Google Cloud Skills Profile](https://www.skills.google/public_profiles/c0c554fe-ff16-4c25-af3f-795d97cd7813)
+[Google Cloud Skills Profile](https://www.skills.google/public_profiles/c0c554fe-ff16-4c25-af3f-795d97cd7813)
 
 ## 08 · GitHub Activity
 
