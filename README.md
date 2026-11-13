@@ -84,14 +84,14 @@ My long-term goal is to grow into a **Data Scientist**, building practical solut
 
 <div align="left">
   <h3>
-    AI-Powered Resume Analyzer
+    CareerMatch-AI
     <a href="https://github.com/Rishav1002/CareerMatch-AI">
       <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Project" align="right">
     </a>
   </h3>
 </div>
 
-An AI-assisted resume evaluation platform designed to help candidates understand how well their resume aligns with a target role and identify areas to improve.
+An AI-assisted Resume Evaluation platform designed to help Candidates understand how well their Resume aligns with a Target Role and identify areas to improve.
 
 **Key capabilities**
 - Parses uploaded resumes and analyzes their content.
